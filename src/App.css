@@ -1,0 +1,17 @@
+.sudoku {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 5%;
+}
+
+.row {
+  display: flex;
+}
+
+.cell {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  margin: 1px;
+}
